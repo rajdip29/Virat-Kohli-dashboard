@@ -36,5 +36,5 @@ The dashboard allows users to explore Virat Kohli’s cricket career data throug
 
 ## 🖼️ Dashboard Screenshot
 
-![Virat Kohli Power BI Dashboard](./Virat%20Kohli%20Dashboard.png)
+![Virat Kohli Power BI Dashboard](https://github.com/rajdip29/Virat-Kohli-dashboard/blob/main/Virat%20Kohli%20Dashboard.png)
 
