@@ -31,7 +31,7 @@ The dashboard allows users to explore Virat Kohli’s cricket career data throug
 
 ## 📂 Data Source
 
-- Cricket performance dataset from **[Kaggle](https://www.kaggle.com/)**  
+- Cricket performance dataset from **[CricMetric](https://www.cricmetric.com/playerstats.py?player=V%20Kohli)**  
 (Data cleaned and structured for analysis)
 
 ## 🖼️ Dashboard Screenshot
